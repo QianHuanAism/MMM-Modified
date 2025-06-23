@@ -1,0 +1,870 @@
+[
+  {
+    "CharacterName": "如果时间是一朵花",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\如果时间是一朵花_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\如果时间是一朵花_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "记忆永不落幕",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\记忆永不落幕_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\记忆永不落幕_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "将光阴织成黄金",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\将光阴织成黄金_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\将光阴织成黄金_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "天才们的问候",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\天才们的问候_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\天才们的问候_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "向着不可追问处",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\向着不可追问处_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\向着不可追问处_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "多流汗，少流泪",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\多流汗，少流泪_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\多流汗，少流泪_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "胜利只在朝夕间",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\胜利只在朝夕间_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\胜利只在朝夕间_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "溯忆",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\溯忆_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\溯忆_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "焚影",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\焚影_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\焚影_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "长路终有归途",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\长路终有归途_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\长路终有归途_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "回到大地的飞行",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\回到大地的飞行_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\回到大地的飞行_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "忍法帖•缭乱破魔",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\忍法帖•缭乱破魔_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\忍法帖•缭乱破魔_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "梦的蒙太奇",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\梦的蒙太奇_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\梦的蒙太奇_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "忍事录•音律狩猎",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\忍事录•音律狩猎_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\忍事录•音律狩猎_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "唯有香如故",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\唯有香如故_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\唯有香如故_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "黑夜如影随行",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\黑夜如影随行_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\黑夜如影随行_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "我将，巡征追猎",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\我将，巡征追猎_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\我将，巡征追猎_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "那无数个春天",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\那无数个春天_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\那无数个春天_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "芳华待灼",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\芳华待灼_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\芳华待灼_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "落日时起舞",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\落日时起舞_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\落日时起舞_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "偏偏希望无价",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\偏偏希望无价_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\偏偏希望无价_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "谐乐静默之后",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\谐乐静默之后_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\谐乐静默之后_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "梦应归于何处",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\梦应归于何处_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\梦应归于何处_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "不息的演算",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\不息的演算_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\不息的演算_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "驶向第二次生命",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\驶向第二次生命_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\驶向第二次生命_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "夜色流光溢彩",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\夜色流光溢彩_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\夜色流光溢彩_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "无边曼舞",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\无边曼舞_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\无边曼舞_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "为了明日的旅途",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\为了明日的旅途_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\为了明日的旅途_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "命运从未公平",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\命运从未公平_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\命运从未公平_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "两个人的演唱会",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\两个人的演唱会_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\两个人的演唱会_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "行于流逝的岸",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\行于流逝的岸_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\行于流逝的岸_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "游戏尘寰",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\游戏尘寰_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\游戏尘寰_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "重塑时光之忆",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\重塑时光之忆_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\重塑时光之忆_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "铭记于心的约定",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\铭记于心的约定_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\铭记于心的约定_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "何物为真",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\何物为真_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\何物为真_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "美梦小镇大冒险",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\美梦小镇大冒险_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\美梦小镇大冒险_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "织造命运之线",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\织造命运之线_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\织造命运之线_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "最后的赢家",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\最后的赢家_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\最后的赢家_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "银河沦陷日",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\银河沦陷日_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\银河沦陷日_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "在火的远处",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\在火的远处_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\在火的远处_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "好戏开演",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\好戏开演_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\好戏开演_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "纯粹思维的洗礼",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\纯粹思维的洗礼_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\纯粹思维的洗礼_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "镜中故我",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\镜中故我_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\镜中故我_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "片刻，留在眼底",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\片刻，留在眼底_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\片刻，留在眼底_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "惊魂夜",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\惊魂夜_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\惊魂夜_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "嘿，我在这儿",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\嘿，我在这儿_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\嘿，我在这儿_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "烦恼着，幸福着",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\烦恼着，幸福着_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\烦恼着，幸福着_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "此身为剑",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\此身为剑_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\此身为剑_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "她已闭上双眼",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\她已闭上双眼_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\她已闭上双眼_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "比阳光更明亮的",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\比阳光更明亮的_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\比阳光更明亮的_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "孤独的疗愈",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\孤独的疗愈_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\孤独的疗愈_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "只需等待",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\只需等待_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\只需等待_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "到不了的彼岸",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\到不了的彼岸_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\到不了的彼岸_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "棺的回响",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\棺的回响_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\棺的回响_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "雨一直下",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\雨一直下_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\雨一直下_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "新手任务开始前",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\新手任务开始前_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\新手任务开始前_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "拂晓之前",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\拂晓之前_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\拂晓之前_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "于夜色中",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\于夜色中_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\于夜色中_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "时节不居",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\时节不居_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\时节不居_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "但战斗还未结束",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\但战斗还未结束_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\但战斗还未结束_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "制胜的瞬间",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\制胜的瞬间_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\制胜的瞬间_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "如泥酣眠",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\如泥酣眠_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\如泥酣眠_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "银河铁道之夜",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\银河铁道之夜_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\银河铁道之夜_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "无可取代的东西",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\无可取代的东西_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\无可取代的东西_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "以世界之名",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\以世界之名_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\以世界之名_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "记忆的质料",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\记忆的质料_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\记忆的质料_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "星海巡航",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\星海巡航_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\星海巡航_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "记一位星神的陨落",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\记一位星神的陨落_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\记一位星神的陨落_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "一场术后对话",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\一场术后对话_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\一场术后对话_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "此时恰好",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\此时恰好_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\此时恰好_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "同一种心情",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\同一种心情_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\同一种心情_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "记忆中的模样",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\记忆中的模样_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\记忆中的模样_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "舞！舞！舞！",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\舞！舞！舞！_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\舞！舞！舞！_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "与行星相会",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\与行星相会_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\与行星相会_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "朗道的选择",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\朗道的选择_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\朗道的选择_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "余生的第一天",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\余生的第一天_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\余生的第一天_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "宇宙市场趋势",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\宇宙市场趋势_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\宇宙市场趋势_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "论剑",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\论剑_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\论剑_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "唯有沉默",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\唯有沉默_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\唯有沉默_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "点个关注吧！",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\点个关注吧！_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\点个关注吧！_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "天才们的休憩",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\天才们的休憩_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\天才们的休憩_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "「我」的诞生",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\「我」的诞生_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\「我」的诞生_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "别让世界静下来",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\别让世界静下来_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\别让世界静下来_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "在蓝天下",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\在蓝天下_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\在蓝天下_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "鼹鼠党欢迎你",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\鼹鼠党欢迎你_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\鼹鼠党欢迎你_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "秘密誓心",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\秘密誓心_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\秘密誓心_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "晚安与睡颜",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\晚安与睡颜_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\晚安与睡颜_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "决心如汗珠般闪耀",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\决心如汗珠般闪耀_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\决心如汗珠般闪耀_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "猎物的视线",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\猎物的视线_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\猎物的视线_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "我们是地火",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\我们是地火_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\我们是地火_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "春水初生",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\春水初生_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\春水初生_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "等价交换",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\等价交换_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\等价交换_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "暖夜不会漫长",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\暖夜不会漫长_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\暖夜不会漫长_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "镂月裁云之意",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\镂月裁云之意_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\镂月裁云之意_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "这就是我啦！",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\这就是我啦！_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\这就是我啦！_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "重返幽冥",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\重返幽冥_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\重返幽冥_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "今日亦是和平的一日",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\今日亦是和平的一日_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\今日亦是和平的一日_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "无处可逃",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\无处可逃_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\无处可逃_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "后会有期",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\后会有期_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\后会有期_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "早餐的仪式感",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\早餐的仪式感_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\早餐的仪式感_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "过往未来",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\过往未来_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\过往未来_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "汪！散步时间！",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\汪！散步时间！_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\汪！散步时间！_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "延长记号",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\延长记号_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\延长记号_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "嘉果",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\嘉果_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\嘉果_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "物穰",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\物穰_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\物穰_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "蕃息",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\蕃息_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\蕃息_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "齐颂",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\齐颂_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\齐颂_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "轮契",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\轮契_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\轮契_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "调和",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\调和_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\调和_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "戍御",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\戍御_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\戍御_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "琥珀",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\琥珀_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\琥珀_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "开疆",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\开疆_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\开疆_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "相抗",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\相抗_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\相抗_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "锋镝",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\锋镝_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\锋镝_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "离弦",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\离弦_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\离弦_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "智库",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\智库_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\智库_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "灵钥",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\灵钥_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\灵钥_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "睿见",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\睿见_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\睿见_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "乐圮",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\乐圮_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\乐圮_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "俱殁",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\俱殁_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\俱殁_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "天倾",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\天倾_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\天倾_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "渊环",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\渊环_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\渊环_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "幽邃",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\幽邃_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\幽邃_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "匿影",
+    "Category": "光锥",
+    "CharacterImage": "Assets\\CategoryImageStroage\\崩坏：星穹铁道\\CharacterImage\\匿影_Main.png",
+    "BackgroundImage": "Assets\\崩坏：星穹铁道\\CharacterImage\\匿影_Background.png",
+    "ModNumber": ""
+  }
+]

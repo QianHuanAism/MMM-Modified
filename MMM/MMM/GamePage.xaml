@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="MMM.GamePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MMM"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+      xmlns:mmm_core="using:MMM_Core"
+    Background="Transparent">
+
+    <Grid >
+        <!-- 定义行 -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- 定义列 -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!--顶部菜单导航栏-->
+        <!-- The GridView used for this example is shown below. Setter properties are used to customize
+some parts of the GridViewItems (i.e. the margins). -->
+        <Border 
+            Margin="40,30" 
+            BorderBrush="Gray"  
+            BorderThickness="0" 
+            CornerRadius="5" 
+            Height="Auto"
+            Grid.Row="0" Grid.Column="0"
+            HorizontalAlignment="Left" 
+            Width="Auto">
+
+            <GridView
+                x:Name="GameIconGridView"
+                ScrollViewer.VerticalScrollBarVisibility="Auto"
+                MaxHeight="300" MaxWidth="500"
+                SelectionChanged="GameIconGridView_SelectionChanged">
+
+                <GridView.ItemTemplate>
+                    <DataTemplate x:Name="GameIconItemGridTemplate" x:DataType="mmm_core:GameIconItem" >
+                        <!--<GridViewItem PointerEntered="GridViewItem_PointerEntered">-->
+                        <GridViewItem>
+
+                            <Grid x:Name="ModShowGrid" Width="80" Height="80" AllowDrop="True" >
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Image  Grid.Row="0" Source="{x:Bind GameIconImage}" Stretch="UniformToFill" Width="80" Height="80"/>
+
+                                <StackPanel Grid.Row="0" Orientation="Vertical" VerticalAlignment="Bottom" Height="20" >
+                                    <StackPanel.Background>
+                                        <AcrylicBrush 
+                                              FallbackColor="#EE222222"
+                                              TintColor="#222222"
+                                              TintLuminosityOpacity="0.7"
+                                              TintOpacity="0.0" />
+                                    </StackPanel.Background>
+                                    <TextBlock HorizontalAlignment="Center" Margin="1" VerticalAlignment="Bottom" Text="{x:Bind GameName}" FontSize="11" FontWeight="Bold"/>
+                                </StackPanel>
+
+                            </Grid>
+                        </GridViewItem>
+
+                    </DataTemplate>
+                </GridView.ItemTemplate>
+
+                <GridView.ItemContainerStyle>
+                    <Style TargetType="GridViewItem" BasedOn="{StaticResource DefaultGridViewItemStyle}">
+                        <Setter Property="Margin" Value="5,5, 5, 5"/>
+                    </Style>
+                </GridView.ItemContainerStyle>
+                <!-- An extra property also needs to be added to the GridView's ItemsWrapGrid.
+The following sets the maximum # of items to show before wrapping.-->
+                <GridView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <ItemsWrapGrid x:Name="MaxItemsWrapGrid"
+                       MaximumRowsOrColumns="5"
+                       Orientation="Horizontal"/>
+                    </ItemsPanelTemplate>
+                </GridView.ItemsPanel>
+            </GridView>
+        </Border>
+
+
+        <Border 
+            Margin="0,50,10,0" 
+            BorderBrush="Gray"  
+            BorderThickness="0" 
+            CornerRadius="5" 
+            Height="Auto"
+            Grid.Row="0" Grid.Column="1"
+            HorizontalAlignment="Right" 
+            Width="Auto">
+
+            <GridView
+                x:Name="InfoBarGridView"
+                ScrollViewer.VerticalScrollBarVisibility="Auto"
+                MaxHeight="300" MaxWidth="500">
+                <GridView.ItemTemplate>
+                    <DataTemplate x:Name="InfoBarItemGridTemplate" x:DataType="mmm_core:InfoBarItem" >
+                        <GridViewItem DoubleTapped="GridViewItem_DoubleTapped">
+                            <Grid x:Name="InfoBarItemGrid" Width="30" Height="30" AllowDrop="True"  >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+                                <Image  Grid.Row="0" Source="{x:Bind IconImage}" Stretch="UniformToFill" Width="30" Height="30" ToolTipService.ToolTip="{x:Bind Description}"/>
+                            </Grid>
+                        </GridViewItem>
+                    </DataTemplate>
+                </GridView.ItemTemplate>
+
+                <GridView.ItemContainerStyle>
+                    <Style TargetType="GridViewItem" BasedOn="{StaticResource DefaultGridViewItemStyle}">
+                        <Setter Property="Margin" Value="5,5, 5, 5"/>
+                    </Style>
+                </GridView.ItemContainerStyle>
+                <!-- An extra property also needs to be added to the GridView's ItemsWrapGrid.
+The following sets the maximum # of items to show before wrapping.-->
+                <GridView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <ItemsWrapGrid x:Name="MaxItemsWrapGrid"
+                       MaximumRowsOrColumns="5"
+                       Orientation="Vertical"/>
+                    </ItemsPanelTemplate>
+                </GridView.ItemsPanel>
+            </GridView>
+        </Border>
+
+        <!--一键启动按钮-->
+        <Border Grid.RowSpan="2" Grid.Column="2"  Width="Auto" 
+HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,90,40" 
+ BorderThickness="2" CornerRadius="15" BorderBrush="White">
+            <Button 
+                ToolTipService.ToolTip="一键启动3Dmigoto Loader.exe并由3Dmigoto Loader.exe启动[启动路径]中的内容随后注入3Dmigoto到[进程路径]中的内容" 
+                x:Name="Button_Run3DmigotoLoader" 
+                FontSize="25" 
+                
+                Width="200"
+                Content="开 始 游 戏" 
+                Foreground="White"
+                FontWeight="Bold"
+                Click="Button_Run3DmigotoLoader_Click"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Right">
+
+                <Button.Background>
+                    <AcrylicBrush
+        TintColor="Black"
+        TintOpacity="0.5"
+        FallbackColor="Black"/>
+                </Button.Background>
+            </Button>
+        </Border>
+        
+        
+        <!-- 路径填写界面 -->
+        <Border Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" Width="Auto" 
+        HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="50,60,60,40"
+         BorderThickness="1" CornerRadius="5" BorderBrush="White">
+
+            <Border.Background>
+                <AcrylicBrush
+        TintColor="Black"
+        TintOpacity="0.5"
+        FallbackColor="Black"/>
+            </Border.Background>
+
+            <Grid>
+                <!-- 定义行 -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!-- 定义列 -->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+
+                <Grid Grid.Row="0" Grid.Column="0" Margin="10,0,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="Auto"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0" Orientation="Horizontal" VerticalAlignment="Center">
+                        <ToggleSwitch 
+                            VerticalAlignment="Center" 
+                            Margin="10" 
+                            x:Name="ToggleSwitch_ShowWarning" 
+                            OnContent="屏蔽游戏内红字" 
+                            OffContent="显示游戏内红字" 
+                            Toggled="ToggleSwitch_ShowWarning_Toggled"
+                            ToolTipService.ToolTip="开启后游戏中将不会显示红字报错，适用于纯享游戏，关闭后将显示红字报错"/>
+                        <ToggleSwitch 
+                            VerticalAlignment="Center" 
+                            Margin="10" 
+                            x:Name="ToggleSwitch_DllMode" 
+                            OnContent="当前dll模式: Play版" 
+                            OffContent="当前dll模式: Dev版" 
+                            Toggled="ToggleSwitch_DllMode_Toggled"
+                            ToolTipService.ToolTip="Dev版用于Mod制作，Play版关闭了Hunting功能，优化了帧率，可以加载DBMT-Encryption插件加密后的Mod"/>
+                    </StackPanel>
+
+                  
+                </Grid>
+
+                <!-- 3Dmigoto路径 -->
+                <StackPanel Grid.Row="1" Orientation="Horizontal"  Margin="10,0,20,10" ToolTipService.ToolTip="一般为游戏的3Dmigoto路径，默认使用MMM自带的3Dmigoto也可以选择其它启动器的">
+                    <TextBlock x:Name="TextBlock_Choose3DmigotoPath" Text="3Dmigoto路径:" VerticalAlignment="Center" Margin="10,0,10,0" Foreground="White"/>
+                    <TextBox x:Name="MigotoPathTextBox" Width="440" />
+                    <Button 
+                        VerticalAlignment="Center" 
+                        HorizontalAlignment="Right" 
+                        Margin="10,0,0,0"
+                        x:Name="Button_Choose3DmigotoFolder"
+                        Click="Button_Choose3DmigotoFolder_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <SymbolIcon Symbol="OpenLocal" />
+                            <TextBlock 
+                                x:Name="TextBlock_Choose3DmigotoFolder" 
+                                Text="选择3Dmigoto文件夹" 
+                                VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+                
+                <!-- 进程路径 -->
+                <StackPanel Grid.Row="2" Orientation="Horizontal" Margin="10,0,20,10" ToolTipService.ToolTip="一般为游戏的主程序进程路径，可以在任务管理器中查看">
+                    <TextBlock x:Name="TextBlock_ChooseProcessPath" Text="进程路径:" VerticalAlignment="Center" Margin="10,0,10,0" Foreground="White"/>
+                    <TextBox x:Name="ProcessPathTextBox" Width="550" TextChanged="ProcessPathTextBox_TextChanged"/>
+                    <Button 
+                        VerticalAlignment="Center" 
+                        HorizontalAlignment="Right"  
+                        Margin="10,0,0,0" 
+                        x:Name="Button_ChooseProcessFile"
+                        Click="Button_ChooseProcessFile_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <SymbolIcon Symbol="OpenFile" />
+                            <TextBlock x:Name="TextBlock_ChooseProcessFile" Text="选择文件" VerticalAlignment="Center"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+
+                <!-- 启动器路径 -->
+                <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="10,0,0,0" ToolTipService.ToolTip="一般为游戏的启动器或者进程路径，如果是启动器则运行3Dmigoto Loader.exe后将自动调起启动器方便手动启动，如果是游戏进程将自动调起游戏进程实现一键启动，除了米的游戏外直接填进程路径一般需要额外填写对应的启动参数">
+                    <TextBlock x:Name="TextBlock_ChooseStarterPath" Text="启动路径:" VerticalAlignment="Center" Margin="10,0,10,0" Foreground="White"/>
+                    <TextBox x:Name="StarterPathTextBox" Width="550" TextChanged="StarterPathTextBox_TextChanged"/>
+                    <Button 
+                        VerticalAlignment="Center" 
+                        HorizontalAlignment="Right"  
+                        Margin="10,0,0,0"
+                        x:Name="Button_ChooseStarterFile"
+                        Click="Button_ChooseStarterFile_Click">
+                        <StackPanel Orientation="Horizontal">
+                            <SymbolIcon Symbol="OpenFile" />
+                            <TextBlock x:Name="TextBlock_ChooseStarterFile" Text="选择文件" VerticalAlignment="Center" />
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+
+
+
+                <!-- 启动参数 -->
+                <StackPanel Grid.Row="4" Grid.Column="0" Orientation="Horizontal" Margin="10,10,0,0" ToolTipService.ToolTip="进程的启动参数，如果进程路径和启动路径填写的内容一样则需要一般填写启动参数" >
+                    <TextBlock x:Name="TextBlock_LaunchArgs" Text="启动参数:" VerticalAlignment="Center" Margin="10,0,10,0" Foreground="White"/>
+                    <TextBox x:Name="TextBox_LaunchArgs" Width="550" TextChanged="TextBox_LaunchArgs_TextChanged"/>
+                </StackPanel>
+
+                <!-- 按钮 -->
+                <StackPanel Grid.Row="5" Orientation="Horizontal" Margin="10,10,10,0">
+                    <Button 
+                        x:Name="Button_InitializePath" 
+                        Content="初始化配置" 
+                        VerticalAlignment="Center" 
+                        HorizontalAlignment="Right" 
+                        Margin="0,0,10,10" 
+                        Click="Button_InitializePath_Click"
+                        ToolTipService.ToolTip="清除当前填写的所有配置，方便重新填写"/>
+                    <Button 
+                        x:Name="Button_SaveConfig" 
+                        Content="保存配置" 
+                        VerticalAlignment="Center" 
+                        HorizontalAlignment="Right"  
+                        Margin="0,0,10,10" 
+                        Click="Button_SaveConfig_Click"
+                        ToolTipService.ToolTip="保存当前的配置到d3dx.ini"/>
+                        <Button 
+                        x:Name="Button_OpenD3DXINI" 
+                        Content="打开d3dx.ini" 
+                        VerticalAlignment="Center" 
+                        HorizontalAlignment="Right"  
+                        Margin="0,0,10,10" 
+                        Click="Button_OpenD3DXINI_Click"
+                        ToolTipService.ToolTip="打开当前游戏的3Dmigoto目录下的d3dx.ini，方便自己修改配置"/>
+                    <Button 
+                        x:Name="Button_Open3DmigotoFolder" 
+                        Content="打开3Dmigoto文件夹" 
+                        VerticalAlignment="Center" 
+                        HorizontalAlignment="Right"  
+                        Margin="0,0,10,10" 
+                        Click="Button_Open3DmigotoFolder_Click"
+                        ToolTipService.ToolTip="打开当前游戏的3Dmigoto文件夹，方便自己配置修改其中内容"/>
+                    <Button 
+                        x:Name="Button_OpenShaderFixesFolder" 
+                        Content="打开ShaderFixes文件夹" 
+                        VerticalAlignment="Center" 
+                        HorizontalAlignment="Right"  
+                        Margin="0,0,10,10" 
+                        Click="Button_OpenShaderFixesFolder_Click"
+                        ToolTipService.ToolTip="打开当前游戏的3Dmigoto文件夹内的ShaderFixes文件夹，方便新增或删减Shader插件"/>
+                </StackPanel>
+
+            </Grid>
+        </Border>
+    </Grid>
+
+</Page>

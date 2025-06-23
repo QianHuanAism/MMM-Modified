@@ -1,0 +1,261 @@
+[
+  {
+    "CharacterName": "Rover_girl",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Rover_girl.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Rover_girl_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Rover_male",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Rover_male.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Rover_male_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "LingYang",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\LingYang.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\LingYang_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Verina",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Verina.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Verina_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Calcharo",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Calcharo.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Calcharo_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "JianXin",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\JianXin.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\JianXin_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "JiYan",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\JiYan.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\JiYan_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "YinLin",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\YinLin.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\YinLin_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "JinHsi",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\JinHsi.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\JinHsi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Changli",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Changli.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Changli_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Zhezhi",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Zhezhi.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Zhezhi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Xiangliyao",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Xiangliyao.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Xiangliyao_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "The_Shorekeeper",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\The_Shorekeeper.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\The_Shorekeeper_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Camellya",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Camellya.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Camellya_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Roccia",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Roccia.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Roccia_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Phoebe",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Phoebe.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Phoebe_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Cantarella",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Cantarella.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Cantarella_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Brant",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Brant.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Brant_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Lumi",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Lumi.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Lumi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Yangyang",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Yangyang.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Yangyang_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Youhu",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Youhu.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Youhu_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Baizhi",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Baizhi.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Baizhi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Chixia",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Chixia.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Chixia_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Sanhua",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Sanhua.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Sanhua_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Aalto",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Aalto.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Aalto_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Danjin",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Danjin.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Danjin_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Mortefi",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Mortefi.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Mortefi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Yuanwu",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Yuanwu.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Yuanwu_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Taoqi",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Taoqi.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Taoqi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Encore",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Encore.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Encore_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Carlotta",
+    "Category": "角色",
+    "CharacterImage": "Assets\\DefaultImages\\WWMI\\HeroPicture\\Carlotta.png",
+    "BackgroundImage": "Assets\\DefaultImages\\WWMI\\CharacterImage\\Carlotta_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Ciaccona",
+    "Category": "角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Ciaccona_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Ciaccona_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Lupa",
+    "Category": "角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Lupa_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Lupa_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Phrolova",
+    "Category": "角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Phrolova_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Phrolova_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Cartethyia",
+    "Category": "角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Cartethyia_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Cartethyia_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Fleurdelys",
+    "Category": "角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Fleurdelys_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Fleurdelys_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Zani",
+    "Category": "角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Zani_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\Zani_Background.png",
+    "ModNumber": ""
+  }
+]

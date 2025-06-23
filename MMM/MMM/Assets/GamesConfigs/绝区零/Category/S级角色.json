@@ -1,0 +1,177 @@
+[
+  {
+    "CharacterName": "Miyabi",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Miyabi.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Miyabi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Evelyn",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Evelyn.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Evelyn_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "AstraYao",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\AstraYao.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\AstraYao_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Miyabi",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Miyabi.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Miyabi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Yanagi",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Yanagi.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Yanagi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Burnice",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Burnice.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Burnice_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Caesar",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Caesar.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Caesar_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Jane",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Jane.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Jane_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Qingyi",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Qingyi.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Qingyi_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Zhu_Yuan",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Zhu_Yuan.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Zhu_Yuan_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Ellen",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Ellen.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Ellen_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Lycaon",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Lycaon.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Lycaon_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Rina",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Rina.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Rina_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Koleda",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Koleda.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Koleda_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Grace",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Grace.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Grace_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "NekomiyaMana",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\NekomiyaMana.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\NekomiyaMana_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Soldier11",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Soldier11.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Soldier11_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Piper",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Piper.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Piper_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "AsabaHarumasa",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\AsabaHarumasa.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\AsabaHarumasa_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Lighter",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Lighter.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Lighter_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Soldier0-Anby",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Soldier0-Anby_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Soldier0-Anby_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Vivian",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Vivian_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Vivian_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Hugo",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Hugo_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Hugo_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Yixuan",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Yixuan_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Yixuan_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Trigger",
+    "Category": "S级角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Trigger_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\Trigger_Background.png",
+    "ModNumber": ""
+  }
+]

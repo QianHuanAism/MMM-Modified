@@ -1,0 +1,30 @@
+[
+  {
+    "CharacterName": "ExorcisticAdjuration",
+    "Category": "服装",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\ExorcisticAdjuration_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\ExorcisticAdjuration_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "SplashingSummer",
+    "Category": "服装",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\SplashingSummer_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\SplashingSummer_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "LaurelNymph",
+    "Category": "服装",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\LaurelNymph_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\LaurelNymph_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "PeachBlossom",
+    "Category": "服装",
+    "CharacterImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\PeachBlossom_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\鸣潮\\CharacterImage\\PeachBlossom_Background.png",
+    "ModNumber": ""
+  }
+]

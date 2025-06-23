@@ -1,0 +1,30 @@
+[
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\鸣潮\\CategoryImage\\角色.png",
+    "CategoryNameName": "角色"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\鸣潮\\CategoryImage\\服装.png",
+    "CategoryNameName": "服装"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\鸣潮\\CategoryImage\\长刃.png",
+    "CategoryNameName": "长刃"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\鸣潮\\CategoryImage\\臂铠.png",
+    "CategoryNameName": "臂铠"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\鸣潮\\CategoryImage\\迅刀.png",
+    "CategoryNameName": "迅刀"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\鸣潮\\CategoryImage\\佩枪.png",
+    "CategoryNameName": "佩枪"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\鸣潮\\CategoryImage\\仪.png",
+    "CategoryNameName": "仪"
+  }
+]

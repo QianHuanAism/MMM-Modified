@@ -1,0 +1,86 @@
+[
+  {
+    "CharacterName": "Piper",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Piper.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Piper_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Lucy",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Lucy.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Lucy_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Soukaku",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Soukaku.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Soukaku_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Billy",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Billy.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Billy_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Nicole",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Nicole.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Nicole_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Anby",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Anby.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Anby_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Anton",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Anton.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Anton_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Ben",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Ben.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Ben_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Corin",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Corin.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Corin_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "Seth",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\DefaultImages\\ZZZ\\HeroPicture\\Seth.png",
+    "BackgroundImage": "Assets\\绝区零\\CharacterImage\\Seth_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "PulchraFellini",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\PulchraFellini_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\PulchraFellini_Background.png",
+    "ModNumber": ""
+  },
+  {
+    "CharacterName": "PanYinhu",
+    "Category": "A级角色",
+    "CharacterImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\PanYinhu_Main.png",
+    "BackgroundImage": "Assets\\CategoryImageStroage\\绝区零\\CharacterImage\\PanYinhu_Background.png",
+    "ModNumber": ""
+  }
+]

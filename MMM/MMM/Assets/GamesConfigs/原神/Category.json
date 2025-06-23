@@ -1,0 +1,26 @@
+[
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\原神\\CategoryImage\\角色.png",
+    "CategoryNameName": "角色"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\原神\\CategoryImage\\单手剑.png",
+    "CategoryNameName": "单手剑"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\原神\\CategoryImage\\双手剑.png",
+    "CategoryNameName": "双手剑"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\原神\\CategoryImage\\弓.png",
+    "CategoryNameName": "弓"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\原神\\CategoryImage\\长柄武器.png",
+    "CategoryNameName": "长柄武器"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\原神\\CategoryImage\\法器.png",
+    "CategoryNameName": "法器"
+  }
+]

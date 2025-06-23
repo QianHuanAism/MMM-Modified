@@ -1,0 +1,443 @@
+[
+  {
+    "CharacterName": "Tribbie",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Tribbie.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Tribbie_Background.png"
+  },
+  {
+    "CharacterName": "Aglaea",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Aglaea.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Aglaea_Background.png"
+  },
+  {
+    "CharacterName": "The_Herta",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\The_Herta.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\The_Herta_Background.png"
+  },
+  {
+    "CharacterName": "Trailblazer",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Trailblazer.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Trailblazer_Background.png"
+  },
+  {
+    "CharacterName": "Sunday",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Sunday.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Sunday_Background.png"
+  },
+  {
+    "CharacterName": "Fugue",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Fugue.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Fugue_Background.png"
+  },
+  {
+    "CharacterName": "Rappa",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Rappa.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Rappa_Background.png"
+  },
+  {
+    "CharacterName": "Lingsha",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Lingsha.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Lingsha_Background.png"
+  },
+  {
+    "CharacterName": "Feixiao",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Feixiao.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Feixiao_Background.png"
+  },
+  {
+    "CharacterName": "Jiaoqiu",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Jiaoqiu.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Jiaoqiu_Background.png"
+  },
+  {
+    "CharacterName": "Yunli",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Yunli.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Yunli_Background.png"
+  },
+  {
+    "CharacterName": "Jade",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Jade.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Jade_Background.png"
+  },
+  {
+    "CharacterName": "Firefly",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Firefly.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Firefly_Background.png"
+  },
+  {
+    "CharacterName": "Boothill",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Boothill.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Boothill_Background.png"
+  },
+  {
+    "CharacterName": "Robin",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Robin.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Robin_Background.png"
+  },
+  {
+    "CharacterName": "Aventurine",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Aventurine.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Aventurine_Background.png"
+  },
+  {
+    "CharacterName": "Acheron",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Acheron.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Acheron_Background.png"
+  },
+  {
+    "CharacterName": "Sparkle",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Sparkle.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Sparkle_Background.png"
+  },
+  {
+    "CharacterName": "Black_Swan",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Black_Swan.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Black_Swan_Background.png"
+  },
+  {
+    "CharacterName": "Dr.Ratio",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Dr.Ratio.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Dr.Ratio_Background.png"
+  },
+  {
+    "CharacterName": "Ruan_Mei",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Ruan_Mei.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Ruan_Mei_Background.png"
+  },
+  {
+    "CharacterName": "Argenti",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Argenti.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Argenti_Background.png"
+  },
+  {
+    "CharacterName": "Huohuo",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Huohuo.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Huohuo_Background.png"
+  },
+  {
+    "CharacterName": "Topaz",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Topaz.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Topaz_Background.png"
+  },
+  {
+    "CharacterName": "Jingliu",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Jingliu.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Jingliu_Background.png"
+  },
+  {
+    "CharacterName": "FuXuan",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\FuXuan.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\FuXuan_Background.png"
+  },
+  {
+    "CharacterName": "Imbibitor_Lunae",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Imbibitor_Lunae.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Imbibitor Lunae_Background.png"
+  },
+  {
+    "CharacterName": "Kafka",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Kafka.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Kafka_Background.png"
+  },
+  {
+    "CharacterName": "Blade",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Blade.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Blade_Background.png"
+  },
+  {
+    "CharacterName": "Luocha",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Luocha.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Luocha_Background.png"
+  },
+  {
+    "CharacterName": "Silver_Wolf",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Silver_Wolf.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Silver_Wolf_Background.png"
+  },
+  {
+    "CharacterName": "JingYuan",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\JingYuan.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\JingYuan_Background.png"
+  },
+  {
+    "CharacterName": "Seele",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Seele.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Seele_Background.png"
+  },
+  {
+    "CharacterName": "Bronya",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Bronya.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Bronya_Background.png"
+  },
+  {
+    "CharacterName": "Welt",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Welt.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Welt_Background.png"
+  },
+  {
+    "CharacterName": "Clara",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Clara.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Clara_Background.png"
+  },
+  {
+    "CharacterName": "Gepard",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Gepard.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Gepard_Background.png"
+  },
+  {
+    "CharacterName": "Himeko",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Himeko.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Himeko_Background.png"
+  },
+  {
+    "CharacterName": "Bailu",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Bailu.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Bailu_Background.png"
+  },
+  {
+    "CharacterName": "Yanqing",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Yanqing.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Yanqing_Background.png"
+  },
+  {
+    "CharacterName": "Moze",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Moze.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Moze_Background.png"
+  },
+  {
+    "CharacterName": "March_7th_Hunting",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\March_7th_Hunting.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\March_7th_Hunting_Background.png"
+  },
+  {
+    "CharacterName": "Gallagher",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Gallagher.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Gallagher_Background.png"
+  },
+  {
+    "CharacterName": "Misha",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Misha.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Misha_Background.png"
+  },
+  {
+    "CharacterName": "Xueyi",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Xueyi.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Xueyi_Background.png"
+  },
+  {
+    "CharacterName": "Hanya",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Hanya.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Hanya_Background.png"
+  },
+  {
+    "CharacterName": "Guinaifen",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Guinaifen.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Guinaifen_Background.png"
+  },
+  {
+    "CharacterName": "Lynx",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Lynx.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Lynx_Background.png"
+  },
+  {
+    "CharacterName": "Luka",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Luka.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Luka_Background.png"
+  },
+  {
+    "CharacterName": "Yukong",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Yukong.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Yukong_Background.png"
+  },
+  {
+    "CharacterName": "DanHeng",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\DanHeng.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\DanHeng_Background.png"
+  },
+  {
+    "CharacterName": "Asta",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Asta.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Asta_Background.png"
+  },
+  {
+    "CharacterName": "March_7th",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\March_7th.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\March_7th_Background.png"
+  },
+  {
+    "CharacterName": "Hook",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Hook.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Hook_Background.png"
+  },
+  {
+    "CharacterName": "Pela",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Pela.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Pela_Background.png"
+  },
+  {
+    "CharacterName": "Sampo",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Sampo.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Sampo_Background.png"
+  },
+  {
+    "CharacterName": "Serval",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Serval.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Serval_Background.png"
+  },
+  {
+    "CharacterName": "Natasha",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Natasha.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Natasha_Background.png"
+  },
+  {
+    "CharacterName": "Sushang",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Sushang.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Sushang_Background.png"
+  },
+  {
+    "CharacterName": "Arlan",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Arlan.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Arlan_Background.png"
+  },
+  {
+    "CharacterName": "Herta",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Herta.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Herta_Background.png"
+  },
+  {
+    "CharacterName": "Qingque",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Qingque.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Qingque_Background.png"
+  },
+  {
+    "CharacterName": "Tingyun",
+    "Category": "角色",
+    "ModNumber": "",
+    "CharacterImage": "Assets\\DefaultImages\\HSR\\HeroPicture\\Tingyun.png",
+    "BackgroundImage": "Assets\\DefaultImages\\HSR\\CharacterImage\\Tingyun_Background.png"
+  }
+]

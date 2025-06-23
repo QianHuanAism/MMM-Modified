@@ -1,0 +1,22 @@
+[
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\绝区零\\CategoryImage\\S级角色.png",
+    "CategoryNameName": "S级角色"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\绝区零\\CategoryImage\\A级角色.png",
+    "CategoryNameName": "A级角色"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\绝区零\\CategoryImage\\S级.png",
+    "CategoryNameName": "S级音擎"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\绝区零\\CategoryImage\\A级.png",
+    "CategoryNameName": "A级音擎"
+  },
+  {
+    "CategoryImage": "Assets\\CategoryImageStroage\\绝区零\\CategoryImage\\B级.png",
+    "CategoryNameName": "B级音擎"
+  }
+]
